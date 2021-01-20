@@ -7,7 +7,7 @@
 > **_Suppose the following input is supplied to the program:_**
 
 ```
-7
+14 
 ```
 
 > **_Then, the output should be:_**
